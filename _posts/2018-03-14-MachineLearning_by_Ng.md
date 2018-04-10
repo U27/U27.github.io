@@ -1,7 +1,7 @@
 ---
 title: Machine Learning by Ng
 layout: post
-tags: machine learning
+tags: machine_learning
 ---
 
 [TOC]
