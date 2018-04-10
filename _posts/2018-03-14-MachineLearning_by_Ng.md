@@ -6,6 +6,8 @@ tags: machine_learning
 
 [TOC]
 
+中文
+
 # 1.Introduction
 
 ### What's Machine Learning?
