@@ -1,7 +1,6 @@
 ---
 title: Machine Learning Using Python
 layout: post
-author: Yule
 tags: machine_learning
 ---
 [TOC]

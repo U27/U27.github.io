@@ -63,3 +63,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 collections: [sections]
+
+highlighter: pygments
