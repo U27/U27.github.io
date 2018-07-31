@@ -1,3 +1,9 @@
+---
+title: Deep Learning by Hung-yi Lee
+layout: post
+tags: machine_learning
+---
+
 # Review: Basic Structures for Deep Learning Models
 
 - Three Steps for Deep Learning

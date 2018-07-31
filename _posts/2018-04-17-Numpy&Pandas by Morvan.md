@@ -1,3 +1,8 @@
+---
+title: Numpy & Pandas by Morvan
+layout: post
+tags: machine_learning
+---
 # Numpy学习
 
 ### 几种属性

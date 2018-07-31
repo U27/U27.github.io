@@ -1,3 +1,9 @@
+---
+title: Operating System by Chyyuu
+layout: post
+tags: cs
+---
+
 # 实验总体流程
 
 1. 在[学堂在线](https://www.xuetangx.com/courses/TsinghuaX/30240243X/2015_T1/about)查看OS相关原理和labX的视频；
