@@ -135,3 +135,5 @@ Credits:
 		jquery.scrollzer (@ajlkn)
 		Skel (skel.io)
 ```
+
+update in 2022
